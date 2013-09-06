@@ -14,8 +14,7 @@ public class MainActivity extends Activity {
 
 
     static class myView extends View {
-        final static int COLORS_NUM = 16;
-        final static int INITIAL_COLOR = 0; // < COLORS_NUM
+        final static int COLORS_NUM = 16; //16 is only possible
         final static int HEIGHT = 640;
         final static int WIDTH = 480;
         State current;
@@ -39,7 +38,14 @@ public class MainActivity extends Activity {
 
             State() {
                 colors = new int[myView.HEIGHT][myView.WIDTH];
-                for(int i = )
+            }
+
+            public void setRandom() {
+                for (int i = 0; i < HEIGHT; i++) {
+                    for (int j = 0; j < WIDTH; j++) {
+                        colors[i][j] = random.nextInt(COLORS_NUM);
+                    }
+                }
             }
         }
 
