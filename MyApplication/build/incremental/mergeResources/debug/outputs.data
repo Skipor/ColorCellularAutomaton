@@ -1,0 +1,13 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1378462013000 352 3e513a1b9f1310ea9b7c6363ef203701896671cf /Users/vladimirskipor/Programing/Android/MyApplicationProject/MyApplication/build/res/all/debug/values-v14/values.xml
+1378462013000 782 1d040cc2c2257b5aa4f00242ef57eaf2040e9187 /Users/vladimirskipor/Programing/Android/MyApplicationProject/MyApplication/build/res/all/debug/layout/activity_main.xml
+1378462013000 6120 ced3785afb467e5670c9c7db0d3a345d15454ea5 /Users/vladimirskipor/Programing/Android/MyApplicationProject/MyApplication/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1378462013000 338 74b432d4ad47ad32a58cd00d48a88fc1779679e6 /Users/vladimirskipor/Programing/Android/MyApplicationProject/MyApplication/build/res/all/debug/values-v11/values.xml
+1378462013000 1184 61e5858dd803d5dc2f2d777132e742272fbd0958 /Users/vladimirskipor/Programing/Android/MyApplicationProject/MyApplication/build/res/all/debug/values/values.xml
+1378462013000 269 5d923c47763922bb02f31153fd3b759a730b84f9 /Users/vladimirskipor/Programing/Android/MyApplicationProject/MyApplication/build/res/all/debug/values-sw720dp-land/values.xml
+1378462013000 366 c0b8974f7a4416facd859f4c3208a3b79ae30da2 /Users/vladimirskipor/Programing/Android/MyApplicationProject/MyApplication/build/res/all/debug/menu/main.xml
+1378462013000 3156 be9d6d2174e9cbaabca59e8090160434dbd60002 /Users/vladimirskipor/Programing/Android/MyApplicationProject/MyApplication/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1378462013000 9487 7e58a59b9c3cf7a7a1df12376c329591dd31f5e4 /Users/vladimirskipor/Programing/Android/MyApplicationProject/MyApplication/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1378462013000 18087 8d35b7c0e81c9caf7ee547905d69c9542a08b87f /Users/vladimirskipor/Programing/Android/MyApplicationProject/MyApplication/build/res/all/debug/drawable-xxhdpi/ic_launcher.png

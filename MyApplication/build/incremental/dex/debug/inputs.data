@@ -1,0 +1,16 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1378462016000 647 94760f615774e7b529aef28a2a2ff0d1b6331e8f /Users/vladimirskipor/Programing/Android/MyApplicationProject/MyApplication/build/classes/debug/ru/skipor/test2/R.class
+1378462016000 463 5225b36ba39a20d7b736026740348979d47adaf3 /Users/vladimirskipor/Programing/Android/MyApplicationProject/MyApplication/build/classes/debug/ru/skipor/test2/R$string.class
+1378462016000 398 9cc5a4455ebfe1252602d27a285d06fdba343b2b /Users/vladimirskipor/Programing/Android/MyApplicationProject/MyApplication/build/classes/debug/ru/skipor/test2/R$drawable.class
+1378463508000 990 961b77e68315bf6e09db71efc7d268eb2f48d5e5 /Users/vladimirskipor/Programing/Android/MyApplicationProject/MyApplication/build/classes/debug/ru/skipor/test2/MainActivity$myView.class
+1378462016000 384 4bb6d0cfc105c64598f887e2d8578638628e6912 /Users/vladimirskipor/Programing/Android/MyApplicationProject/MyApplication/build/classes/debug/ru/skipor/test2/R$id.class
+1378462016000 379 cb6eaecebcd5b90d1215a0bb97baae9c1f00971e /Users/vladimirskipor/Programing/Android/MyApplicationProject/MyApplication/build/classes/debug/ru/skipor/test2/R$menu.class
+1378462016000 339 16384888c48b883b4f9d79e8f2d99beff49bc8da /Users/vladimirskipor/Programing/Android/MyApplicationProject/MyApplication/build/classes/debug/ru/skipor/test2/BuildConfig.class
+1378462016000 331 df4756b1b156c3cc1b774448d74f82c91a35d1ec /Users/vladimirskipor/Programing/Android/MyApplicationProject/MyApplication/build/classes/debug/ru/skipor/test2/R$attr.class
+1378462016000 452 ddd330248f707cf75bfbfcc587a2ef0f29a7987b /Users/vladimirskipor/Programing/Android/MyApplicationProject/MyApplication/build/classes/debug/ru/skipor/test2/R$dimen.class
+1378462016000 422 62d20147dc99a1ecf7ec1dc94d541e6ccce07836 /Users/vladimirskipor/Programing/Android/MyApplicationProject/MyApplication/build/classes/debug/ru/skipor/test2/R$style.class
+1378463292000 687 e547718cefbeb7c50acd15ec43c6d372b1bc39d7 /Users/vladimirskipor/Programing/Android/MyApplicationProject/MyApplication/build/classes/debug/ru/skipor/test2/MainActivity.class
+1369432937000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1378462016000 394 f7c8af1b1d1c1c5a27ab3d15b71a368db0bc0335 /Users/vladimirskipor/Programing/Android/MyApplicationProject/MyApplication/build/classes/debug/ru/skipor/test2/R$layout.class
